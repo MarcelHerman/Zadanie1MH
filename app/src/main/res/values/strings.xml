@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">QuizMH</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+
+    <string name="q_mac">Wiekszosc studentów lubi Mac-i</string>
+    <string name="q_parking">PB ma wystarczająco dużo miejsc parkingowych</string>
+    <string name="q_wi">Wydział Informatyki jest najlepszy na PB</string>
+    <string name="q_listener">Aplikacje dla systemu Android sterowane są zdarzeniowo</string>
+    <string name="q_gwint">Klub na terenie PB nazywa się Gwint</string>
+
+    <string name="correct_answer">Poprawna Odpowiedź</string>
+    <string name="incorrect_answer">Niepoprawna Odpowiedź</string>
+</resources>
